@@ -14,5 +14,6 @@ public static void main(String[]args) {
 	System.out.println(" Multiplication of 10 and 5 = "+multiply);
 	System.out.println(" Division quotient of 10 and 5 ="+division);
 	System.out.println(" Modulus of 10 and 5 = "+modulus);
+	System.out.println(" Modulus of 20 and 5 = "+modulus);
 }
 }
